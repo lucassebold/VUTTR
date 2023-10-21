@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "fsnYGcHI8gJ0pIMjVZEBtBX/ZjJcfPinmmc+32qcDMg=",
-  "Source": "VUTTR",
-  "BasePath": "_content/VUTTR",
+  "Hash": "vycO+Osz60QyR56/qWBmnp/big+3WMRPHYvd4pmjkmE=",
+  "Source": "VUTTR.Application",
+  "BasePath": "_content/VUTTR.Application",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
