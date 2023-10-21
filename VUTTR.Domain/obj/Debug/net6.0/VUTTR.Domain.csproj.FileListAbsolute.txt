@@ -1,0 +1,11 @@
+C:\projetos\challenge\VUTTR\VUTTR.Domain\bin\Debug\net6.0\VUTTR.Domain.deps.json
+C:\projetos\challenge\VUTTR\VUTTR.Domain\bin\Debug\net6.0\VUTTR.Domain.dll
+C:\projetos\challenge\VUTTR\VUTTR.Domain\bin\Debug\net6.0\VUTTR.Domain.pdb
+C:\projetos\challenge\VUTTR\VUTTR.Domain\obj\Debug\net6.0\VUTTR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\challenge\VUTTR\VUTTR.Domain\obj\Debug\net6.0\VUTTR.Domain.AssemblyInfoInputs.cache
+C:\projetos\challenge\VUTTR\VUTTR.Domain\obj\Debug\net6.0\VUTTR.Domain.AssemblyInfo.cs
+C:\projetos\challenge\VUTTR\VUTTR.Domain\obj\Debug\net6.0\VUTTR.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\challenge\VUTTR\VUTTR.Domain\obj\Debug\net6.0\VUTTR.Domain.dll
+C:\projetos\challenge\VUTTR\VUTTR.Domain\obj\Debug\net6.0\refint\VUTTR.Domain.dll
+C:\projetos\challenge\VUTTR\VUTTR.Domain\obj\Debug\net6.0\VUTTR.Domain.pdb
+C:\projetos\challenge\VUTTR\VUTTR.Domain\obj\Debug\net6.0\ref\VUTTR.Domain.dll

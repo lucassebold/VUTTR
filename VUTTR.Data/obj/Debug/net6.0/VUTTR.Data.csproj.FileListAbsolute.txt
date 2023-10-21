@@ -1,0 +1,15 @@
+C:\projetos\challenge\VUTTR\VUTTR.Data\bin\Debug\net6.0\VUTTR.Data.deps.json
+C:\projetos\challenge\VUTTR\VUTTR.Data\bin\Debug\net6.0\VUTTR.Data.dll
+C:\projetos\challenge\VUTTR\VUTTR.Data\bin\Debug\net6.0\VUTTR.Data.pdb
+C:\projetos\challenge\VUTTR\VUTTR.Data\bin\Debug\net6.0\VUTTR.Domain.dll
+C:\projetos\challenge\VUTTR\VUTTR.Data\bin\Debug\net6.0\VUTTR.Domain.pdb
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\VUTTR.Data.csproj.AssemblyReference.cache
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\VUTTR.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\VUTTR.Data.AssemblyInfoInputs.cache
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\VUTTR.Data.AssemblyInfo.cs
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\VUTTR.Data.csproj.CoreCompileInputs.cache
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\VUTTR.Data.csproj.CopyComplete
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\VUTTR.Data.dll
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\refint\VUTTR.Data.dll
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\VUTTR.Data.pdb
+C:\projetos\challenge\VUTTR\VUTTR.Data\obj\Debug\net6.0\ref\VUTTR.Data.dll
