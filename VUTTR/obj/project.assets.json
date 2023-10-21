@@ -2789,9 +2789,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\challenge\\VUTTR\\VUTTR\\VUTTR.csproj",
-      "projectName": "VUTTR",
-      "projectPath": "C:\\projetos\\challenge\\VUTTR\\VUTTR\\VUTTR.csproj",
+      "projectUniqueName": "C:\\projetos\\challenge\\VUTTR\\VUTTR\\VUTTR.Application.csproj",
+      "projectName": "VUTTR.Application",
+      "projectPath": "C:\\projetos\\challenge\\VUTTR\\VUTTR\\VUTTR.Application.csproj",
       "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
       "outputPath": "C:\\projetos\\challenge\\VUTTR\\VUTTR\\obj\\",
       "projectStyle": "PackageReference",

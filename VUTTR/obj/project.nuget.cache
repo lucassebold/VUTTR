@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xeJuKpHp4e2EwLQVUO+4Z8zfTA00JXlLwBrL4aREkbtRQq7p8i/xMIbq6tUY0z0In9G2qV0kotLPIk6XhI4lLg==",
+  "dgSpecHash": "60cXkyG9EsM4OM2Slq84tXIeBKp9U8fYIiONnfnNrJvfWiWaXYSehH8Z1ypYZghLa3d8DJVb2kKR3ZYcatZfnA==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\challenge\\VUTTR\\VUTTR\\VUTTR.csproj",
+  "projectFilePath": "C:\\projetos\\challenge\\VUTTR\\VUTTR\\VUTTR.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dev\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Dev\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
