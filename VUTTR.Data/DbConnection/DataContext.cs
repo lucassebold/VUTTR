@@ -12,12 +12,12 @@ public class DbContext
         }
     }
 
-    public int ExecuteUpdate(string updateQuery)
+    public int Execute(string updateQuery, object Params)
     {
         using (SqlConnection dbConnection = new SqlConnection("Server=FULL-90\\SQLEXPRESS01;Trusted_Connection=True;Database=Tool;initial catalog=Tool;"))
         {
             dbConnection.Open();
-            return dbConnection.Execute(updateQuery);
+            return dbConnection.Execute(updateQuery, Params);
         }
     }
 }

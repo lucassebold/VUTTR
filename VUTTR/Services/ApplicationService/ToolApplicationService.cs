@@ -15,9 +15,19 @@ namespace API.Services.ApplicationService
             _toolRepository = toolRepository;
         }
 
-        public List<ToolDto> List(string tag)
+        public List<ToolDto> List(List<string> tag)
         {
             return _toolRepository.List(tag);
+        }
+
+        public void Create(ToolRequest tool)
+        {
+            _toolRepository.Create(tool);
+        }
+
+        public void Delete(ToolRequest tool)
+        {
+            _toolRepository.Delete(tool);
         }
     }
 }

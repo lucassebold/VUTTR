@@ -14,9 +14,23 @@ namespace API.Controllers
 
         [HttpGet]
         [Route("/Tools")]
-        public ActionResult<List<ToolDto>> List([FromQuery] string tag)
+        public ActionResult<List<ToolDto>> List([FromQuery] List<string> tag)
         {
             return _toolApplicationService.List(tag);
+        }
+
+        [HttpPost]
+        [Route("/Create")]
+        public void Create(ToolRequest tool)
+        {
+            _toolApplicationService.Create(tool);
+        }
+
+        [HttpDelete]
+        [Route("/Delete")]
+        public void Delete(ToolRequest tool)
+        {
+            _toolApplicationService.Delete(tool);
         }
     }
 }

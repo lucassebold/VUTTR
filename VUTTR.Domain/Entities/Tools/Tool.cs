@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using VUTTR.Domain.Entities.Tags;
 
 namespace VUTTR.Domain.Entities.Tools
 {
@@ -9,6 +10,6 @@ namespace VUTTR.Domain.Entities.Tools
         public string Title { get; set; }
         public string Link { get; set; }
         public string Description { get; set; }
-        public string Tag { get; set; }
+        public Tag Tag { get; set; }
     }
 }

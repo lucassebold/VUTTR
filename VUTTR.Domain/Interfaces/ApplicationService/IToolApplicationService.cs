@@ -6,6 +6,8 @@ namespace VUTTR.Domain.Interfaces.ApplicationService
 {
     public interface IToolApplicationService
     {
-        List<ToolDto> List(string tag);
+        List<ToolDto> List(List<string> tag);
+        public void Create(ToolRequest tool);
+        public void Delete(ToolRequest tool);
     }
 }

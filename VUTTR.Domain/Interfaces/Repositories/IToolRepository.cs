@@ -10,6 +10,8 @@ namespace VUTTR.Domain.Interfaces.Repositories
 {
     public interface IToolRepository
     {
-        List<ToolDto> List(string tag);
+        List<ToolDto> List(List<string> tag);
+        public void Create(ToolRequest tool);
+        public void Delete(ToolRequest tool);
     }
 }
